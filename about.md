@@ -4,9 +4,13 @@ title: About Me
 permalink: /about/
 ---
 
-to do
+Tomorrow is coming. 
 
 <br>
 <br>
-Download my <a href="https://www.dropbox.com/s/jf0iw8ifrwy6zip/wuyunga.pdf?dl=0" download="wuyunga">CV</a><br>
+Books I'm reading recently:
+<br>
+<br>
+Some useful websites:
+<br>
 <br>
