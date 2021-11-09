@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Tomorrow is coming. 
+Some thngs I want you konw: 
 
 
 <br>
