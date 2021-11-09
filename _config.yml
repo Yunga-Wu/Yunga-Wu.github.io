@@ -1,11 +1,11 @@
 
 # Site settings
-title: wuyunga
-name: wuyunga
+title: Wu Yunga
+name: Wu Yunga
 subtitle: SIA
 email: wuyunga@sia.cn
 description: >
-  Underwater Lab, SIA
+  SIA
 baseurl: ""
 url: "https://yunga-wu.github.io/"
 github_username:  Yunga-Wu
