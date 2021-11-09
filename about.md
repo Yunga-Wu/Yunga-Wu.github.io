@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Some thngs I want you konw: 
+Some things I want you konw: 
 
 
 <br>
