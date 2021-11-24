@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-### Recent books I've read and highly recommend:    
+### Recent books I've read and highly recommend：
 #### 1.三体（Threebody），刘慈欣  
 * 消灭人类暴政，世界属于三体。（Destroy human tyranny. World belongs to Trisolaris.）   
 * 面壁者罗辑（Wallfacer Luoji）
@@ -16,5 +16,6 @@ permalink: /about/
 那些意想不到的奇迹，   
 在漫长的岁月里忽然有   
 彗星的出现，狂风乍起。   
-——冯至《十四行诗》   
+——冯至《十四行诗》
+<br>
 ### Some useful websites:      
