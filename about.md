@@ -6,7 +6,7 @@ permalink: /about/
 ### Recent books I've read and highly recommend:    
 #### 1.Threebody, by Cixin Liu   
 * Destroy human tyranny. World belongs to Trisolaris.   
-* Wallfacer Luoji   
+* Wallfacer Luoji
 #### 2.Zen and the Art of Motorcycle Maintenance, by Robot M. Pirsig
 #### 3.北大百年新诗
 我们准备着深深地领受   
