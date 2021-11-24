@@ -3,9 +3,6 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
-## Just some little things I'd like you to konw.   
-
 <br>
 <br>
 ### Recent books I've read and highly recommend:    
@@ -15,7 +12,7 @@ permalink: /about/
 <br>
 #### 2.Zen and the Art of Motorcycle Maintenance, by Robot M. Pirsig
 <br>
-## 3.北大百年新诗
+#### 3.北大百年新诗
 我们准备着深深地领受   
 那些意想不到的奇迹，   
 在漫长的岁月里忽然有   
@@ -23,6 +20,6 @@ permalink: /about/
 ——冯至《十四行诗》   
 <br>
 <br>
-## Some useful websites      
+## Some useful websites:      
 <br>
 <br>
