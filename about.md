@@ -6,12 +6,13 @@ permalink: /about/
 ### Recent books I've read and highly recommend：
 #### 0.三国演义，罗贯中
 *
-#### 1.三体（Threebody），刘慈欣
+#### 1.三体（Threebody），刘慈欣aaaaaa
 
 * Two axioms of Cosmic Sociology: first,survival is the first necessity of civilization. second, as civilization constantly grows and expands, total matter quantity in the universe remains unchanged. 
 * suspicion chain & technical explosion
 * 消灭人类暴政，世界属于三体。（Destroy human tyranny. World belongs to Trisolaris.）
 * 面壁者罗辑(Wallfacer Luoji)
+* 给岁月以文明，而不是给文明以岁月aaaaaaa
 #### 2.禅与摩托车维修的艺术，罗伯特·M·波西格
 * 一旦真正地投入了工作之中，就可以说是在关心自己的工作，这就是关心的真正意义——对自己手中的工作产生认同感。
 * 当你做某件事的时候，一旦想要求快，就表示你不再关心它，而想去做别的事。
